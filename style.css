@@ -129,6 +129,10 @@ h1 {
     margin: 0;
 }
 
+.selected>p {
+    margin: 0.5rem;
+}
+
 .rating {
     display: block;
 }
