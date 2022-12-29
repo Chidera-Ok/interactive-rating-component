@@ -157,6 +157,9 @@ h1 {
     .container {
         width: 90%;
     }
+    .flexbox {
+        gap: 1rem;
+    }
 }
 
 

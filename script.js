@@ -3,7 +3,7 @@ let submitDOM = document.querySelector('.submit');
 let success = document.querySelector('#value');
 let ratingState = document.querySelector('.rating');
 let thankState = document.querySelector('.thank-you')
-let rate;
+let rate = 0;
 for (num of rateDOM) {
     num.addEventListener('click', function() {
         rate = this.innerHTML
@@ -18,7 +18,7 @@ submitDOM.addEventListener("click", () => displayRate(rate));
 
 
 function displayRate(rate) {
-    if (rate == 0) {
+    if (rate === 0) {
         alert("Please rate us");
     } else {
         success.innerHTML = rate;
