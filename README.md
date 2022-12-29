@@ -1,6 +1,6 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Interactive rating component
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Interactive rating component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ## Table of contents
@@ -12,7 +12,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 - [Author](#author)
 
 ## Overview
-A project displaying the qrcode of frontend mentors for users.
+A project displaying an interactive rating component for users.
 
 ### Links
 
@@ -26,6 +26,7 @@ A project displaying the qrcode of frontend mentors for users.
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Javascript
 
 ## Author
 
