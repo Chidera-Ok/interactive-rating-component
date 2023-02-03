@@ -7,10 +7,6 @@ let rate = 0;
 for (num of rateDOM) {
     num.addEventListener('click', function() {
         rate = this.innerHTML
-        for (btn of rateDOM) {
-            btn.classList.remove('active');
-        }
-
         this.classList.add('active');
     });
 }
